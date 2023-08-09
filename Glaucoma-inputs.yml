@@ -1,0 +1,78 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/glaucoma-operation---primary.py
+inputModule3:
+  class: File
+  path: python/glaucoma-surgery---primary.py
+inputModule4:
+  class: File
+  path: python/glaucoma-suture---primary.py
+inputModule5:
+  class: File
+  path: python/glaucoma-unspecified---primary.py
+inputModule6:
+  class: File
+  path: python/glaucoma---primary.py
+inputModule7:
+  class: File
+  path: python/glaucoma-pressure---primary.py
+inputModule8:
+  class: File
+  path: python/glaucoma-angle---primary.py
+inputModule9:
+  class: File
+  path: python/chronic-glaucoma---primary.py
+inputModule10:
+  class: File
+  path: python/glaucoma-tension---primary.py
+inputModule11:
+  class: File
+  path: python/glaucoma-stage---primary.py
+inputModule12:
+  class: File
+  path: python/primary-glaucoma---secondary.py
+inputModule13:
+  class: File
+  path: python/glaucoma---secondary.py
+inputModule14:
+  class: File
+  path: python/glaucoma-trabeculectomy---secondary.py
+inputModule15:
+  class: File
+  path: python/glaucoma-viscocanulostomy---secondary.py
+inputModule16:
+  class: File
+  path: python/glaucoma-filtering---secondary.py
+inputModule17:
+  class: File
+  path: python/glaucoma-laser---secondary.py
+inputModule18:
+  class: File
+  path: python/glaucoma-trabeculotomy---secondary.py
+inputModule19:
+  class: File
+  path: python/glaucoma-goniotomy---secondary.py
+inputModule20:
+  class: File
+  path: python/glaucoma-goniopuncture---secondary.py
+inputModule21:
+  class: File
+  path: python/viscogonioplasty-glaucoma---secondary.py
+inputModule22:
+  class: File
+  path: python/glaucoma-meshwork---secondary.py
+inputModule23:
+  class: File
+  path: python/glaucoma-iridosclerotomy---secondary.py
+inputModule24:
+  class: File
+  path: python/glaucoma-iridotomy---secondary.py
+inputModule25:
+  class: File
+  path: python/glaucoma-incision---secondary.py
+inputModule26:
+  class: File
+  path: python/output-cases.py
